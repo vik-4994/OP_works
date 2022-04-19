@@ -1,0 +1,30 @@
+C:\Users\4labs\OneDrive\Рабочий стол\Lab_2_First_App\Lab_2_First_App\bin\Debug\Lab_2_First_App.exe.config
+C:\Users\4labs\OneDrive\Рабочий стол\Lab_2_First_App\Lab_2_First_App\bin\Debug\Lab_2_First_App.exe
+C:\Users\4labs\OneDrive\Рабочий стол\Lab_2_First_App\Lab_2_First_App\bin\Debug\Lab_2_First_App.pdb
+C:\Users\4labs\OneDrive\Рабочий стол\Lab_2_First_App\Lab_2_First_App\obj\Debug\MainWindow.g.cs
+C:\Users\4labs\OneDrive\Рабочий стол\Lab_2_First_App\Lab_2_First_App\obj\Debug\App.g.cs
+C:\Users\4labs\OneDrive\Рабочий стол\Lab_2_First_App\Lab_2_First_App\obj\Debug\Lab_2_First_App_MarkupCompile.cache
+C:\Users\4labs\OneDrive\Рабочий стол\Lab_2_First_App\Lab_2_First_App\obj\Debug\Lab_2_First_App_MarkupCompile.lref
+C:\Users\4labs\OneDrive\Рабочий стол\Lab_2_First_App\Lab_2_First_App\obj\Debug\MainWindow.baml
+C:\Users\4labs\OneDrive\Рабочий стол\Lab_2_First_App\Lab_2_First_App\obj\Debug\Lab_2_First_App.g.resources
+C:\Users\4labs\OneDrive\Рабочий стол\Lab_2_First_App\Lab_2_First_App\obj\Debug\Lab_2_First_App.Properties.Resources.resources
+C:\Users\4labs\OneDrive\Рабочий стол\Lab_2_First_App\Lab_2_First_App\obj\Debug\Lab_2_First_App.csproj.GenerateResource.cache
+C:\Users\4labs\OneDrive\Рабочий стол\Lab_2_First_App\Lab_2_First_App\obj\Debug\Lab_2_First_App.csproj.CoreCompileInputs.cache
+C:\Users\4labs\OneDrive\Рабочий стол\Lab_2_First_App\Lab_2_First_App\obj\Debug\Lab_2_First_App.exe
+C:\Users\4labs\OneDrive\Рабочий стол\Lab_2_First_App\Lab_2_First_App\obj\Debug\Lab_2_First_App.pdb
+\\vmware-host\Shared Folders\Рабочий стол\Lab_2_First_App\Lab_2_First_App\bin\Debug\Lab_2_First_App.exe.config
+\\vmware-host\Shared Folders\Рабочий стол\Lab_2_First_App\Lab_2_First_App\bin\Debug\Lab_2_First_App.exe
+\\vmware-host\Shared Folders\Рабочий стол\Lab_2_First_App\Lab_2_First_App\bin\Debug\Lab_2_First_App.pdb
+\\vmware-host\Shared Folders\Рабочий стол\Lab_2_First_App\Lab_2_First_App\obj\Debug\Lab_2_First_App.csproj.AssemblyReference.cache
+\\vmware-host\Shared Folders\Рабочий стол\Lab_2_First_App\Lab_2_First_App\obj\Debug\Lab_2_First_App.csproj.SuggestedBindingRedirects.cache
+\\vmware-host\Shared Folders\Рабочий стол\Lab_2_First_App\Lab_2_First_App\obj\Debug\MainWindow.g.cs
+\\vmware-host\Shared Folders\Рабочий стол\Lab_2_First_App\Lab_2_First_App\obj\Debug\App.g.cs
+\\vmware-host\Shared Folders\Рабочий стол\Lab_2_First_App\Lab_2_First_App\obj\Debug\Lab_2_First_App_MarkupCompile.cache
+\\vmware-host\Shared Folders\Рабочий стол\Lab_2_First_App\Lab_2_First_App\obj\Debug\Lab_2_First_App_MarkupCompile.lref
+\\vmware-host\Shared Folders\Рабочий стол\Lab_2_First_App\Lab_2_First_App\obj\Debug\MainWindow.baml
+\\vmware-host\Shared Folders\Рабочий стол\Lab_2_First_App\Lab_2_First_App\obj\Debug\Lab_2_First_App.g.resources
+\\vmware-host\Shared Folders\Рабочий стол\Lab_2_First_App\Lab_2_First_App\obj\Debug\Lab_2_First_App.Properties.Resources.resources
+\\vmware-host\Shared Folders\Рабочий стол\Lab_2_First_App\Lab_2_First_App\obj\Debug\Lab_2_First_App.csproj.GenerateResource.cache
+\\vmware-host\Shared Folders\Рабочий стол\Lab_2_First_App\Lab_2_First_App\obj\Debug\Lab_2_First_App.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\Рабочий стол\Lab_2_First_App\Lab_2_First_App\obj\Debug\Lab_2_First_App.exe
+\\vmware-host\Shared Folders\Рабочий стол\Lab_2_First_App\Lab_2_First_App\obj\Debug\Lab_2_First_App.pdb
